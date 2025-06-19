@@ -52,8 +52,8 @@ Connect with fellow space enthusiasts, developers, and researchers shaping tomor
 
 </td>
 <td>
-<td align="right" style="padding-left: 1px;">
-<img src="./asset/des.jpeg" alt="Φsat‑2 Satellite" width="70%">
+<td align="right" style="padding-left: 0px;">
+<img src="./asset/des.jpeg" alt="Φsat‑2 Satellite" width="100%">
 </td>
 </tr>
 </table>
